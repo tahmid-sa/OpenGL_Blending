@@ -1,0 +1,12 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\mesh.h(90,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(221,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(327,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(328,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(332,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(333,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(335,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(336,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\OpenGLWindow\window_main.cpp(345,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Blending\x64\Debug\OpenGLWindow.exe
